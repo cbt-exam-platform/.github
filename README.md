@@ -39,9 +39,9 @@ The system supports two primary user roles:
 - Automatic score calculation
 - View exam results
 
-🛠️ Admin Features
+## Admin Features
 
-Create, update, and delete exams
+- Create, update, and delete exams
 
 Add, edit, and remove questions
 
