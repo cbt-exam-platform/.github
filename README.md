@@ -72,46 +72,40 @@ The system supports two primary user roles:
 - Modular backend services
 - Horizontal scalability support
 
-🧩 Reliability
+## Reliability
 
-Prevents loss of exam data during submission
+- Prevents loss of exam data during submission
+- Graceful error handling
 
-Graceful error handling
+## Tech Stack
 
-🧰 Tech Stack
-Frontend
+### Frontend
 
-HTML5
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- React.js
 
-CSS3
+## React Router
 
-JavaScript (ES6+)
+- Axios / Fetch API
 
-React.js
+## Backend
 
-React Router
+- Node.js
+- Express.js
 
-Axios / Fetch API
+## RESTful API
 
-Backend
+- JWT Authentication
+- Middleware-based architecture
 
-Node.js
+## Database
 
-Express.js
+- PostgreSQL
+- ORM: Prisma or Sequelize
 
-RESTful API
-
-JWT Authentication
-
-Middleware-based architecture
-
-Database
-
-PostgreSQL
-
-ORM: Prisma or Sequelize
-
-Infrastructure
+## Infrastructure
 
 API Gateway
 
