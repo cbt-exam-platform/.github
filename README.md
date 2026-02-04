@@ -56,27 +56,21 @@ The system supports two primary user roles:
 - Exam visibility control (published/unpublished)
 
 ## Non-Functional Requirements
-⚡ Performance
+### Performance
 
-Supports concurrent users
+- Supports concurrent users
+- Fast loading of exam questions
 
-Fast loading of exam questions
+## Security
 
-🔒 Security
+- All API endpoints are protected
+- HTTPS enforced for data transmission
+- Password hashing before storage
+- Unauthorized access is denied
 
-All API endpoints are protected
-
-HTTPS enforced for data transmission
-
-Password hashing before storage
-
-Unauthorized access is denied
-
-📈 Scalability
-
-Modular backend services
-
-Horizontal scalability support
+ ## Scalability
+- Modular backend services
+- Horizontal scalability support
 
 🧩 Reliability
 
