@@ -42,28 +42,20 @@ The system supports two primary user roles:
 ## Admin Features
 
 - Create, update, and delete exams
+- Add, edit, and remove questions
+- Set exam duration
+- Publish or unpublish exams
+- View student submissions
+- Access exam results and statistics
 
-Add, edit, and remove questions
+## Exam Management
 
-Set exam duration
+- Support for multiple exams
+- Support for multiple questions per exam
+- Each question contains multiple options with one correct answer
+- Exam visibility control (published/unpublished)
 
-Publish or unpublish exams
-
-View student submissions
-
-Access exam results and statistics
-
-📝 Exam Management
-
-Support for multiple exams
-
-Support for multiple questions per exam
-
-Each question contains multiple options with one correct answer
-
-Exam visibility control (published/unpublished)
-
-🚀 Non-Functional Requirements
+## Non-Functional Requirements
 ⚡ Performance
 
 Supports concurrent users
