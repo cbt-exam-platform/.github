@@ -124,33 +124,24 @@ The system supports two primary user roles:
 - PUT    /api/admin/exams/{id}
 - DELETE /api/admin/exams/{id}
 
-Submissions & Results
-POST /api/exams/{id}/submit
-GET  /api/student/results
-GET  /api/admin/results
+## Submissions & Results
+- POST /api/exams/{id}/submit
+- GET  /api/student/results
+- GET  /api/admin/results
 
-🗄️ Database Design
-Entities
+## Database Design
+- Entities
+- Users
+- Exams
+- Questions
+- Options
+- Results
 
-Users
-
-Exams
-
-Questions
-
-Options
-
-Results
-
-Relationships
-
-A user can take multiple exams
-
-An exam contains multiple questions
-
-A question has multiple options
-
-Each result belongs to one user and one exam
+## Relationships
+- A user can take multiple exams
+- An exam contains multiple questions
+- A question has multiple options
+- Each result belongs to one user and one exam
 
 🌍 Deployment
 
