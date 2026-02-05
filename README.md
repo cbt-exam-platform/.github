@@ -107,13 +107,10 @@ The system supports two primary user roles:
 
 ## Infrastructure
 
-API Gateway
-
-Nginx (Reverse Proxy)
-
-Environment variables (.env)
-
-CI/CD with GitHub Actions
+- API Gateway
+- Nginx (Reverse Proxy)
+- Environment variables (.env)
+- CI/CD with GitHub Actions
 
 🔌 API Endpoints
 Authentication
