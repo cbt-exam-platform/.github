@@ -143,37 +143,27 @@ The system supports two primary user roles:
 - A question has multiple options
 - Each result belongs to one user and one exam
 
-🌍 Deployment
+## Deployment
 
-Frontend deployed on a CDN-enabled platform
+- Frontend deployed on a CDN-enabled platform
+- Backend deployed on a cloud server
+- PostgreSQL hosted on a managed database service
+- All services communicate over HTTPS
 
-Backend deployed on a cloud server
+## Development Workflow
 
-PostgreSQL hosted on a managed database service
+- Version control using Git
+- GitHub repository hosting
+- Branching strategy (main, develop)
+- Code linting and formatting
+- Unit and integration testing
 
-All services communicate over HTTPS
+## Future Enhancements
 
-🧑‍💻 Development Workflow
-
-Version control using Git
-
-GitHub repository hosting
-
-Branching strategy (main, develop)
-
-Code linting and formatting
-
-Unit and integration testing
-
-🔮 Future Enhancements
-
-Question randomization
-
-Anti-cheating mechanisms
-
-Real-time exam monitoring
-
-Advanced analytics dashboard
+- Question randomization
+- Anti-cheating mechanisms
+- Real-time exam monitoring
+- Advanced analytics dashboard
 
 📄 License
 
