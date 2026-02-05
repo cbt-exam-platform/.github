@@ -23,6 +23,7 @@ The system supports two primary user roles:
 - Administrator
 
 ## Functional Features
+
 ### Authentication & Authorization
 - User registration and login
 - JWT-based authentication
