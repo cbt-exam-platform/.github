@@ -112,17 +112,17 @@ The system supports two primary user roles:
 - Environment variables (.env)
 - CI/CD with GitHub Actions
 
-🔌 API Endpoints
-Authentication
-POST /api/auth/register
-POST /api/auth/login
+ ##  API Endpoints
+- Authentication
+- POST /api/auth/register
+- POST /api/auth/login
 
-Exams
-GET    /api/exams
-GET    /api/exams/{id}
-POST   /api/admin/exams
-PUT    /api/admin/exams/{id}
-DELETE /api/admin/exams/{id}
+## Exams
+- GET    /api/exams
+- GET    /api/exams/{id}
+- POST   /api/admin/exams
+- PUT    /api/admin/exams/{id}
+- DELETE /api/admin/exams/{id}
 
 Submissions & Results
 POST /api/exams/{id}/submit
