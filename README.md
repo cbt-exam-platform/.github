@@ -165,6 +165,5 @@ The system supports two primary user roles:
 - Real-time exam monitoring
 - Advanced analytics dashboard
 
-📄 License
-
+## License
 This project is licensed under the MIT License.
